@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 @Service
-public class EmployServiceImpl implements EmployServices {
+public class EmployeeServiceImpl implements EmployServices {
 
 
 
